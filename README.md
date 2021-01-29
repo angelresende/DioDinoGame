@@ -1,5 +1,3 @@
-
-
 # Dio Dino Game
 
 <h1 align="center">
