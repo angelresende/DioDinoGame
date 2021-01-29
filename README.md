@@ -15,7 +15,7 @@
 
 ## 🚀 Sobre o projeto
 
-Dino game for Digital Innovation One's lesson, using only JS, HTML and CSS
+Jogo desenvolvido apenas com JS, HTML e CSS durante o BootCamp GFT START_UNI 2021 da Digital Innovation One.
 
 ## 🛠️ Tecnologias Utilizadas
 
