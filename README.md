@@ -2,7 +2,7 @@
 
 <h1 align="center">
 
-:computer: **PROJETO RECRIAÇÃO INTERFACE INSTAGRAM**
+:computer: **PROJETO DINO GAME**
 
 </h1>
 
